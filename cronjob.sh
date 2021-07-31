@@ -1,0 +1,1 @@
+00 11 * * * /user/local/bin/python3 /home/nidhya/projects/selenium_temp_check.py
